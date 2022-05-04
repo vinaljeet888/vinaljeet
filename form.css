@@ -1,0 +1,16 @@
+body{
+	background-color: azure;
+}
+h2{
+	text-align: center;
+}
+form{
+	margin-left: 40%;
+}
+form input{
+	padding-left: 10px;
+}
+nav {
+	margin-left: 40%;
+	margin-bottom: 25px;
+}

@@ -1,0 +1,17 @@
+body{
+	background-color: azure;
+}
+nav button a{
+	text-decoration: none;
+	font-size: 25px;
+	color: black;padding: 5px;
+}
+nav button{
+	height: 100px;
+	margin-left: 50px;
+	margin-top: ;
+}
+nav{
+	margin-left: 35%;
+	margin-top: 20%;
+}
